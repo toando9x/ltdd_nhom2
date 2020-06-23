@@ -1,4 +1,4 @@
-package com.example.admin.appbanhang;
+package com.example.toando.appbanhang;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.admin.appbanhang", appContext.getPackageName());
+        assertEquals("com.example.toando.appbanhang", appContext.getPackageName());
     }
 }
